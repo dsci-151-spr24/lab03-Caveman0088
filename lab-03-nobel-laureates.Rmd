@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Nobel laureates"
-author: "Cade Fredette"
+author: "Cade J Fredette"
 output: 
   tufte::tufte_html:
     css: ../lab.css
